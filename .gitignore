@@ -1,6 +1,7 @@
 # LaTeX temporary files
 *.aux
 *.bbl
+*.bbl-*
 *.blg
 *.brf
 *.fls
@@ -12,6 +13,11 @@
 *.synctex.gz
 *.toc
 *.vrb
+*.bcf
+*.lof
+*.lot
+*.run.xml
+
 
 # VSCode specific files
 .vscode/
